@@ -31,7 +31,7 @@ $result = mysqli_query($link,'SELECT *   FROM  `libaries` ORDER BY id DESC LIMIT
 
     <nav class="d-inline-flex mt-2 mt-md-0 ms-md-auto">
         <a class="me-3 py-2 text-white text-decoration-none" href="https://synergyacademy.com/lp/v1/?utm_source=yandex_s&utm_medium=cpc&utm_campaign=65376123&utm_content=11126587713&utm_group=4682560681&utm_term=synergy%20academy&site=none&marketer=gav&produkt=93029440&utm_gen=3&otdel=rsv&etext=&yclid=1872979974669787738">Синергия</a>
-        <a class=" btn btn-warning me-3 py-2 text-white text-decoration-none " href="/home">Главная</a>
+        <a class=" btn btn-warning me-3 py-2 text-white text-decoration-none " href="home">Главная</a>
     </nav>
 </div>
 <h1>Личный кабинет</h1>
